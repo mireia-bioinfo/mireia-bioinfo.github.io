@@ -4,7 +4,7 @@ comments: false
 css: styles.css 
 ---
 
-## Education
+## {{< fa solid graduation-cap >}} Education
 
 **PhD in Biomedicine** \| Universitat de Barcelona (Barcelona, Spain) \| Sept 2016 – Nov 2020
 
@@ -12,7 +12,7 @@ css: styles.css
 
 **BSc in Biomedical Sciences** \| Universitat Autònoma de Barcelona (Barcelona, Spain) \| Sept 2009 – July 2014
 
-## Experience
+## {{< fa solid briefcase >}} Experience
 
 **Postdoctoral Researcher** \| Endocrine Regulatory Genomics Lab (MELIS-UPF, Barcelona, Spain) \| Nov 2020 – Present
 
@@ -22,13 +22,13 @@ css: styles.css
 
 **Intership** \| Computational Medicine (UAB, Barcelona, Spain) \| Nov 2013 – May 2014
 
-## Projects as Principal Investigator
+## {{< fa solid coins >}} Projects as Principal Investigator
 
 **EFSD/Lilly Young Investigator Research Award** \| European Foundation for the Study of Diabetes \| 2024 – 2025
 
 **Beca Impulso Talento Joven** \| Fundación DiabetesCERO (Spain) \| 2023 – 2025
 
-## Other fellowships & honors
+## {{< fa solid award >}} Other fellowships & honors
 
 **Poster Award** \| EISG Helsinki 2024 \| June 2024
 
@@ -42,7 +42,7 @@ css: styles.css
 
 **Maths4Life Fellowship** \| IRB, Barcelona \| Jul 2015
 
-## Teaching
+## {{< fa solid chalkboard-user >}} Teaching
 
 **Single cell technologies Seminar** \| UVic \| November 2023 – Present
 
@@ -56,10 +56,17 @@ css: styles.css
 
 **Improve your plots with {ggplot2}** \| R-Ladies Barcelona Workshop \| Sept 2017; Oct 2019
 
-## Volunteer Work
+## {{< fa solid hand-holding-hand >}} Volunteer Work
 
 **Bioconductor package reviewer** \| Oct 2024 – Present
 
-**R-Ladies Barcelona Organizer** \| 2017 – 2023
+{{< fa brands r-project >}}**-Ladies Barcelona Organizer** \| 2017 – 2023
 
 **Can Ruti PhD Stuent Committee** \| 2018 – 2020
+
+## {{< fa solid language >}} Languages
+
+-   **Catalan** \| Native
+-   **Spanish** \| Native
+-   **English** \| Proficient
+-   **Japanese** \| Basic

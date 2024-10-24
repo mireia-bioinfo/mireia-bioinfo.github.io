@@ -10,13 +10,13 @@ title: "Publications"
 
 -   [Ramos‑Rodríguez, Mireia]{.underline}, Subirana‑Granés, M., & Pasquali, L. (2021). **UMI4Cats: An R package to analyze chromatin contact profiles obtained by UMI‑4C**. *Bioinformatics*. <https://doi.org/10.1093/bioinformatics/btab392>
 
-    [{{< fa solid file >}} PDF](/files/RamosRodriguez2021_umi4cats.pdf){.btn .btn-outline-primary .btn-sm role="button"} [{{< fa brands github >}} Code](https://github.com/Pasquali-lab/UMI4Cats){.btn .btn-outline-primary .btn-sm role="button"} [Bioconductor](https://bioconductor.org/packages/release/bioc/html/UMI4Cats.html){.btn .btn-outline-primary .btn-sm role="button"}
+    [{{< fa solid file >}} PDF](/files/RamosRodriguez2021_umi4cats.pdf){.btn .btn-outline-primary .btn-sm role="button"} [{{< fa brands github >}} Code](https://github.com/Pasquali-lab/UMI4Cats){.btn .btn-outline-primary .btn-sm role="button"} [{{< fa brands r-project >}} Bioconductor](https://bioconductor.org/packages/release/bioc/html/UMI4Cats.html){.btn .btn-outline-primary .btn-sm role="button"}
 
 -   [Ramos‑Rodríguez, Mireia]{.underline}, Pérez‑González, B., & Pasquali, L. (2021). **The β‑Cell Genomic Landscape in T1D: Implications for Disease Pathogenesis**. *Current Diabetes Reports*, 21(1), 1. <https://doi.org/10.1007/s11892-020-01370-4>
 
     [{{< fa solid file >}} PDF](/files/RamosRodriguez2021_reviewT1D.pdf){.btn .btn-outline-primary .btn-sm role="button"}
 
--   [Ramos‑Rodríguez, Mireia]{.underline}, Raurell‑Vila, H., Colli, M. L., Alvelos, M. I., Subirana‑Granés, M., Juan‑Mateu, J., Norris, R., Turatsinze, J.‑V., Nakayasu, E. S., Webb‑Robertson, B.‑J. M., Inshaw, J. R. J., Marchetti, P., Piemonti, L., Esteller, M., Todd, J. A., Metz, T. O., Eizirik, D. L., & Pasquali, L. (2019). **The impact of proinflammatory cytokines on the β‑cell regulatory landscape provides insights into the genetics of type 1 diabetes**. Nature Genetics, 51(11), 1588–1595. <https://doi.org/10.1038/s41588-019-0524-6>
+-   [Ramos‑Rodríguez, Mireia]{.underline}, Raurell‑Vila, H., Colli, M. L., Alvelos, M. I., Subirana‑Granés, M., Juan‑Mateu, J., Norris, R., Turatsinze, J.‑V., Nakayasu, E. S., Webb‑Robertson, B.‑J. M., Inshaw, J. R. J., Marchetti, P., Piemonti, L., Esteller, M., Todd, J. A., Metz, T. O., Eizirik, D. L., & Pasquali, L. (2019). **The impact of proinflammatory cytokines on the β‑cell regulatory landscape provides insights into the genetics of type 1 diabetes**. *Nature Genetics*, 51(11), 1588–1595. <https://doi.org/10.1038/s41588-019-0524-6>
 
     [{{< fa solid file >}} PDF](/files/RamosRodriguez2019_cyt.pdf){.btn .btn-outline-primary .btn-sm role="button"} [{{< fa brands github >}} Code](https://mireia-bioinfo.github.io/phdthesis_code/){.btn .btn-outline-primary .btn-sm role="button"}
 

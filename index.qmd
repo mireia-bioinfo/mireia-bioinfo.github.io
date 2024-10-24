@@ -4,15 +4,15 @@ about:
   template: trestles
   image: files/mireia.jpg
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/mireia_bioinfo
     - icon: github
       text: Github
       href: https://github.com/mireia-bioinfo
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/mireia-bioinfo/
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/mireia_bioinfo
     - icon: google-scholar
       text: Google Scholar
       href: https://scholar.google.com/citations?user=gsjxsNQAAAAJ&hl=en
@@ -23,8 +23,6 @@ comments: false
 ---
 
 I am a postdoctoral researcher in the [Endocrine Regulatory Genomics laboratory](https://www.endoregulatorygenomics.org/), led by Dr. Lorenzo Pasquali (MELIS-UPF). My background combines knowledge in the fields of biomedicine and computational biology, which has allowed me to specialize in the use and development of bioinformatics to analyze and understand the **epigenetic mechanisms that regulate gene expression**.
-
-## Career path
 
 My scientific career has focused on understanding the molecular mechanisms of T1D from the perspective of pancreatic β-cells. My thesis aimed to answer the following question: **Are β-cells involved in the pathophysiology of T1D?** We demonstrated that T1D risk-associated variants, located in regulatory elements of β-cells that are activated in response to a pro-inflammatory environment, affect their ability to activate their target genes. This represents a paradigm shift in the way we understand T1D, as it shows that β-cells play an active role in the development of the disease. This work was awarded the Best Scientific Article by a PhD Student and an Extraordinary Doctoral Award.
 
