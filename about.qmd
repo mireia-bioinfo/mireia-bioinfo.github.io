@@ -1,0 +1,9 @@
+---
+title: "About Mireia's Research" 
+comments: false
+css: styles.css 
+---
+
+## Research statement
+
+Throughout my research career, I have dedicated my focus to **unraveling the cis‑regulatory networks** of β cells within the context of diseases, particularly Type 1 Diabetes (T1D). Building upon this foundation, I have recently expanded my investigations to encompass neoplastic malignancies, including insulinomas (manuscript in preparation). Notably, my doctoral thesis emphasized the pivotal role of β cells in the development of T1D, thereby highlighting the indispensable nature of studying this component to fully elucidate the pathophysiology of the disease. As a result, my current research is centered around acquiring invaluable insights into the **mechanisms by which β cells contribute to T1D** and identifying **strategies to safeguard them against autoimmune destruction**. Given my training as a computational biologist, I am uniquely positioned to address these questions, leveraging cutting‑edge technologies that require extensive bioinformatics knowledge, all while considering the essential biological aspects involved.

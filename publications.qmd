@@ -1,0 +1,31 @@
+---
+title: "Publications"
+---
+
+## Main Publications
+
+-   [Ramos‑Rodríguez, Mireia]{.underline}, Subirana‑Granés, M., Norris, R., Sordi, V., Fernández, Á., Fuentes‑Páez, G., Pérez‑ González, B., Berenguer Balaguer, C., Raurell‑Vila, H., Chowdhury, M., Corripio, R., Partelli, S., López‑Bigas, N., Pellegrini, S., Montanya, E., Nacher, M., Falconi, M., Layer, R., Rovira, M., … Pasquali, L. (2024). **Implications of noncoding regulatory functions in the development of insulinomas**. *Cell Genomics*, 4(8), 100604. https://doi.org/10.1016/j.xgen.2024.100604
+
+-   [Ramos‑Rodríguez, Mireia]{.underline}, Subirana‑Granés, M., & Pasquali, L. (2021). **UMI4Cats: An R package to analyze chromatin contact profiles obtained by UMI‑4C**. *Bioinformatics*. https://doi.org/10.1093/bioinformatics/btab392
+
+-   [Ramos‑Rodríguez, Mireia]{.underline}, Pérez‑González, B., & Pasquali, L. (2021). **The β‑Cell Genomic Landscape in T1D: Implications for Disease Pathogenesis**. *Current Diabetes Reports*, 21(1), 1. https://doi.org/10.1007/s11892-020-01370-4
+
+-   Colli, M. L., [Ramos‑Rodríguez, Mireia]{.underline}, Nakayasu, E. S., Alvelos, M. I., Lopes, M., Hill, J. L. E., Turatsinze, J.‑ V., Brachène, A. C. de, Russell, M. A., Raurell‑Vila, H., Castela, A., Juan‑Mateu, J., Webb‑Robertson, B.‑J. M., Krogvold, L., Dahl‑Jorgensen, K., Marselli, L., Marchetti, P., Richardson, S. J., Morgan, N. G., … Eizirik, D. L. (2020). **An integrated multi‑omics approach identifies the landscape of interferon‑mediated responses of human pancreatic beta cells**. *Nature Communications* 2020 11:1, 11(1), 1–17. https://doi.org/10.1038/s41467-020-16327-0
+
+-   [Ramos‑Rodríguez, Mireia]{.underline}, Raurell‑Vila, H., Colli, M. L., Alvelos, M. I., Subirana‑Granés, M., Juan‑Mateu, J., Norris, R., Turatsinze, J.‑V., Nakayasu, E. S., Webb‑Robertson, B.‑J. M., Inshaw, J. R. J., Marchetti, P., Piemonti, L., Esteller, M., Todd, J. A., Metz, T. O., Eizirik, D. L., & Pasquali, L. (2019). **The impact of proinflammatory cytokines on the β‑cell regulatory landscape provides insights into the genetics of type 1 diabetes**. Nature Genetics, 51(11), 1588–1595. https://doi.org/10.1038/s41588-019-0524-6
+
+-   Raurell‑Vila, H., [Ramos‑Rodríguez, Mireia]{.underline}, & Pasquali, L. (2018). **Assay for Transposase Accessible Chromatin (ATAC‑Seq) to Chart the Open Chromatin Landscape of Human Pancreatic Islets**. In T. Vavouri & M. A. Peinado (Eds.), *Methods in molecular biology* (CpG Island, pp. 197–208). Human Press. https://doi.org/10.1007/978-1-4939-7768-0_11
+
+-   Mularoni, L., [Ramos‑Rodríguez, Mireia]{.underline}, & Pasquali, L. (2017). **The Pancreatic Islet Regulome Browser**. *Frontiers in Genetics*, 8(FEB), 13. https://doi.org/10.3389/fgene.2017.00013
+
+## Collaborations
+
+-   Sarkar, S., Deiter, C., Kyle, J. E., Guney, M. A., Sarbaugh, D., Yin, R., Li, X., Cui, Y., [Ramos‑Rodriguez, Mireia]{.underline}, Nicora, C. D., Syed, F., Juan‑Mateu, J., Muralidharan, C., Pasquali, L., Evans‑Molina, C., Eizirik, D. L., Webb‑ Robertson, B.‑J. M., Burnum‑Johnson, K., Orr, G., … Nakayasu, E. S. (2024). **Regulation of β‑cell death by ADP‑ribosylhydrolase ARH3 via lipid signaling in insulitis**. *Cell Communication and Signaling*, 22(1), 141. https://doi.org/10.1186/s12964-023-01437-1
+
+-   Fontcuberta‑PiSunyer, M., Garcı́ a‑Alamán, A., Prades, Èlia, Téllez, N., Alves‑Figueiredo, H., [Ramos‑Rodríguez, Mireia]{.underline}, Enrich, C., Fernandez‑Ruiz, R., Cervantes, S., Clua, L., Ramón‑Azcón, J., Broca, C., Wojtusciszyn, A., Montserrat, N., Pasquali, L., Novials, A., Servitja, J.‑M., Vidal, J., Gomis, R., & Gasa, R. (2023). **Direct reprogramming of human fibroblasts into insulin‑producing cells using transcription factors**. *Communications Biology*, 6(1). https://doi.org/10.1038/s42003-023-04627-2
+
+-   Arroyo, N., Villamayor, L., Díaz, I., Carmona, R., [Ramos‑Rodríguez, Mireia]{.underline}, Muñoz‑Chápuli, R., Pasquali, L., Toscano, M. G., Martín, F., Cano, D. A., & Rojas, A. (2021). **GATA4 induces liver fibrosis regression by deac‑ tivating hepatic stellate cells**. *JCI Insight*, 6(23). https://doi.org/10.1172/jci.insight.150059
+
+-   Miguel‑Escalada, I., Bonàs‑Guarch, S., Cebola, I., Ponsa‑Cobas, J., Mendieta‑Esteban, J., Atla, G., Javierre, B. M., Rolando, D. M. Y., Farabella, I., Morgan, C. C., García‑Hurtado, J., Beucher, A., Morán, I., Pasquali, L., [Ramos‑Rodríguez, Mireia]{.underline}, Appel, E. V. R., Linneberg, A., Gjesing, A. P., Witte, D. R., … Ferrer, J. (2019). **Human pancreatic islet three‑dimensional chromatin architecture provides insights into the genetics of type 2 diabetes**. *Nature Genetics*, 51(7), 1137–1148. https://doi.org/10.1038/s41588-019-0457-0
+
+-   Kameswaran, V., Golson, M. L., [Ramos‑Rodríguez, Mireia]{.underline}, Ou, K., Wang, Y. J., Zhang, J., Pasquali, L., & Kaest‑ ner, K. H. (2018). **The Dysregulation of the DLK1 ‑ MEG3 Locus in Islets From Patients With Type 2 Diabetes Is Mimicked by Targeted Epimutation of Its Promoter With TALE‑DNMT Constructs**. *Diabetes*, 67(9), 1807–1815. https://doi.org/10.2337/db17-0682

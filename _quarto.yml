@@ -1,0 +1,26 @@
+project:
+  type: website
+  resources:
+    - "files/"
+    
+execute:
+  freeze: auto
+
+website:
+  title: "Mireia Ramos-Rodríguez"
+  navbar:
+    background: primary
+    left:
+      - text: About
+        href: about.qmd
+      - text: Publications
+        href: publications.qmd
+
+format:
+  html:
+    theme: pulse
+    css: styles.css
+    toc: true
+
+editor: visual
+
