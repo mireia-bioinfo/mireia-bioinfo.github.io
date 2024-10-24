@@ -6,27 +6,23 @@ title: "Publications"
 
 -   [Ramos‑Rodríguez, Mireia]{.underline}, Subirana‑Granés, M., Norris, R., Sordi, V., Fernández, Á., Fuentes‑Páez, G., Pérez‑ González, B., Berenguer Balaguer, C., Raurell‑Vila, H., Chowdhury, M., Corripio, R., Partelli, S., López‑Bigas, N., Pellegrini, S., Montanya, E., Nacher, M., Falconi, M., Layer, R., Rovira, M., … Pasquali, L. (2024). **Implications of noncoding regulatory functions in the development of insulinomas**. *Cell Genomics*, 4(8), 100604. <https://doi.org/10.1016/j.xgen.2024.100604>
 
-    [PDF](/files/RamosRodriguez2024_insulinomas.pdf){.btn .btn-outline-primary .btn-sm role="button"}
+    [{{< fa solid file >}} PDF](/files/RamosRodriguez2024_insulinomas.pdf){.btn .btn-outline-primary .btn-sm role="button"} [{{< fa solid code >}} Code](https://zenodo.org/records/10994981){.btn .btn-outline-primary .btn-sm role="button"}
 
 -   [Ramos‑Rodríguez, Mireia]{.underline}, Subirana‑Granés, M., & Pasquali, L. (2021). **UMI4Cats: An R package to analyze chromatin contact profiles obtained by UMI‑4C**. *Bioinformatics*. <https://doi.org/10.1093/bioinformatics/btab392>
 
-    [PDF](/files/RamosRodriguez2021_umi4cats.pdf){.btn .btn-outline-primary .btn-sm role="button"}
+    [{{< fa solid file >}} PDF](/files/RamosRodriguez2021_umi4cats.pdf){.btn .btn-outline-primary .btn-sm role="button"} [{{< fa brands github >}} Code](https://github.com/Pasquali-lab/UMI4Cats){.btn .btn-outline-primary .btn-sm role="button"} [Bioconductor](https://bioconductor.org/packages/release/bioc/html/UMI4Cats.html){.btn .btn-outline-primary .btn-sm role="button"}
 
 -   [Ramos‑Rodríguez, Mireia]{.underline}, Pérez‑González, B., & Pasquali, L. (2021). **The β‑Cell Genomic Landscape in T1D: Implications for Disease Pathogenesis**. *Current Diabetes Reports*, 21(1), 1. <https://doi.org/10.1007/s11892-020-01370-4>
 
-    [PDF](/files/RamosRodriguez2021_reviewT1D.pdf){.btn .btn-outline-primary .btn-sm role="button"}
+    [{{< fa solid file >}} PDF](/files/RamosRodriguez2021_reviewT1D.pdf){.btn .btn-outline-primary .btn-sm role="button"}
 
 -   [Ramos‑Rodríguez, Mireia]{.underline}, Raurell‑Vila, H., Colli, M. L., Alvelos, M. I., Subirana‑Granés, M., Juan‑Mateu, J., Norris, R., Turatsinze, J.‑V., Nakayasu, E. S., Webb‑Robertson, B.‑J. M., Inshaw, J. R. J., Marchetti, P., Piemonti, L., Esteller, M., Todd, J. A., Metz, T. O., Eizirik, D. L., & Pasquali, L. (2019). **The impact of proinflammatory cytokines on the β‑cell regulatory landscape provides insights into the genetics of type 1 diabetes**. Nature Genetics, 51(11), 1588–1595. <https://doi.org/10.1038/s41588-019-0524-6>
 
-    [PDF](/files/RamosRodriguez2019_cyt.pdf){.btn .btn-outline-primary .btn-sm role="button"}
-
--   Raurell‑Vila, H., [Ramos‑Rodríguez, Mireia]{.underline}, & Pasquali, L. (2018). **Assay for Transposase Accessible Chromatin (ATAC‑Seq) to Chart the Open Chromatin Landscape of Human Pancreatic Islets**. In T. Vavouri & M. A. Peinado (Eds.), *Methods in molecular biology* (CpG Island, pp. 197–208). Human Press. <https://doi.org/10.1007/978-1-4939-7768-0_11>
-
-    [PDF](/files/Raurell2018_atacseq.pdf){.btn .btn-outline-primary .btn-sm role="button"}
+    [{{< fa solid file >}} PDF](/files/RamosRodriguez2019_cyt.pdf){.btn .btn-outline-primary .btn-sm role="button"} [{{< fa brands github >}} Code](https://mireia-bioinfo.github.io/phdthesis_code/){.btn .btn-outline-primary .btn-sm role="button"}
 
 -   Mularoni, L., [Ramos‑Rodríguez, Mireia]{.underline}, & Pasquali, L. (2017). **The Pancreatic Islet Regulome Browser**. *Frontiers in Genetics*, 8(FEB), 13. <https://doi.org/10.3389/fgene.2017.00013>
 
-    [PDF](/files/Mularoni2017_pirb.pdf){.btn .btn-outline-primary .btn-sm role="button"}
+    [{{< fa solid file >}} PDF](/files/Mularoni2017_pirb.pdf){.btn .btn-outline-primary .btn-sm role="button"} [{{< fa solid link >}} Web Tool](isletregulome.org){.btn .btn-outline-primary .btn-sm role="button"} [{{< fa brands github >}} Code](https://github.com/mireia-bioinfo/PIRB_shinyApp){.btn .btn-outline-primary .btn-sm role="button"}
 
 ## Collaborations
 
@@ -46,4 +42,10 @@ title: "Publications"
 
 -   [Ramos-Rodríguez, Mireia]{.underline} (2020). **β-cells cis-regulatory networks and type 1 diabetes**. Universitat de Barcelona.
 
-    [PDF](/files/Mularoni2017_pirb.pdf){.btn .btn-outline-primary .btn-sm role="button"} [Website](https://mireia-bioinfo.github.io/phdthesis_code/){.btn .btn-outline-primary .btn-sm role="button"}
+    [{{< fa solid file >}} PDF](/files/MRR_PhD_THESIS.pdf){.btn .btn-outline-primary .btn-sm role="button"} [{{< fa solid link >}} Website](https://mireia-bioinfo.github.io/phdthesis_code/){.btn .btn-outline-primary .btn-sm role="button"}
+
+## Book Chapters
+
+-   Raurell‑Vila, H., [Ramos‑Rodríguez, Mireia]{.underline}, & Pasquali, L. (2018). **Assay for Transposase Accessible Chromatin (ATAC‑Seq) to Chart the Open Chromatin Landscape of Human Pancreatic Islets**. In T. Vavouri & M. A. Peinado (Eds.), *Methods in molecular biology* (CpG Island, pp. 197–208). Human Press. <https://doi.org/10.1007/978-1-4939-7768-0_11>
+
+    [{{< fa solid file >}} PDF](/files/Raurell2018_atacseq.pdf){.btn .btn-outline-primary .btn-sm role="button"}

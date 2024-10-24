@@ -1,0 +1,23 @@
+---
+title: "Software"
+---
+
+### UMI4Cats 
+
+![](files/UMI4Cats_logo.png){style="text-align"}
+
+[{{< fa brands github >}} Github](https://github.com/Pasquali-lab/UMI4Cats){.btn .btn-outline-primary .btn-sm role="button"} [Bioconductor](https://bioconductor.org/packages/release/bioc/html/UMI4Cats.html){.btn .btn-outline-primary .btn-sm role="button"}
+
+The goal of UMI4Cats is to provide and easy-to-use package to analyze UMI-4C chromatin interaction data.
+
+> [Ramos‑Rodríguez, Mireia]{.underline}, Subirana‑Granés, M., & Pasquali, L. (2021). **UMI4Cats: An R package to analyze chromatin contact profiles obtained by UMI‑4C**. *Bioinformatics*. <https://doi.org/10.1093/bioinformatics/btab392>
+
+### Islet Regulome Browser
+
+![](files/regulome_logo.png){width="330" height="100"}
+
+[{{< fa solid link >}} Web Tool](isletregulome.org){.btn .btn-outline-primary .btn-sm role="button"} [{{< fa brands github >}} Github](https://github.com/mireia-bioinfo/PIRB_shinyApp){.btn .btn-outline-primary .btn-sm role="button"}
+
+The Islet Regulome Browser is a dynamic website that allows you to explore genetic and epigenetic data from islet-related cell-types and tissues.
+
+> Mularoni, L., [Ramos‑Rodríguez, Mireia]{.underline}, & Pasquali, L. (2017). **The Pancreatic Islet Regulome Browser**. *Frontiers in Genetics*, 8(FEB), 13. <https://doi.org/10.3389/fgene.2017.00013>
