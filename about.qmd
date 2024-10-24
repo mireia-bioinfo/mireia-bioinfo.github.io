@@ -1,9 +1,65 @@
 ---
-title: "About Mireia's Research" 
+title: "About Mireia Ramos-Rodríguez" 
 comments: false
 css: styles.css 
 ---
 
-## Research statement
+## Education
 
-Throughout my research career, I have dedicated my focus to **unraveling the cis‑regulatory networks** of β cells within the context of diseases, particularly Type 1 Diabetes (T1D). Building upon this foundation, I have recently expanded my investigations to encompass neoplastic malignancies, including insulinomas (manuscript in preparation). Notably, my doctoral thesis emphasized the pivotal role of β cells in the development of T1D, thereby highlighting the indispensable nature of studying this component to fully elucidate the pathophysiology of the disease. As a result, my current research is centered around acquiring invaluable insights into the **mechanisms by which β cells contribute to T1D** and identifying **strategies to safeguard them against autoimmune destruction**. Given my training as a computational biologist, I am uniquely positioned to address these questions, leveraging cutting‑edge technologies that require extensive bioinformatics knowledge, all while considering the essential biological aspects involved.
+**PhD in Biomedicine** \| Universitat de Barcelona (Barcelona, Spain) \| Sept 2016 – Nov 2020
+
+**MSc in Bioinformatics** \| Universidad de Murcia (Murcia, Spain) \| October 2014 – Sept 2015
+
+**BSc in Biomedical Sciences** \| Universitat Autònoma de Barcelona (Barcelona, Spain) \| Sept 2009 – July 2014
+
+## Experience
+
+**Postdoctoral Researcher** \| Endocrine Regulatory Genomics Lab (MELIS-UPF, Barcelona, Spain) \| Nov 2020 – Present
+
+**Predoctoral Researcher** \| Endocrine Regulatory Genomics Lab (IGTP, Badalona, Spain) \| Dec 2015 – Nov 2020
+
+**Maths4Life Fellow** \| Biostatistics & Bioinformatics unit (IRB, Barcelona, Spain) \| July 2015 – Aug 2015
+
+**Intership** \| Computational Medicine (UAB, Barcelona, Spain) \| Nov 2013 – May 2014
+
+## Projects as Principal Investigator
+
+**EFSD/Lilly Young Investigator Research Award** \| European Foundation for the Study of Diabetes \| 2024 – 2025
+
+**Beca Impulso Talento Joven** \| Fundación DiabetesCERO (Spain) \| 2023 – 2025
+
+## Other fellowships & honors
+
+**Poster Award** \| EISG Helsinki 2024 \| June 2024
+
+**Premi Extraordinari de Doctorat** \| Facultat de Biologia, Universitat de Barcelona \| Oct 2020
+
+**Premi al Millor Article de Recerca en Ciències de la Salut elaborat per un Investigador Predoctoral** \| Institut Català de la Salut \| Oct 2020
+
+**Excellent poster presentation** \| Spetses Summer School on Chromatin and Metabolism (ChroMe) \| Aug 2018
+
+**PhD Fellowship** – Ayudas para la contratación de personal investigador novel (FI) \| AGAUR, Barcelona \| March 2017
+
+**Maths4Life Fellowship** \| IRB, Barcelona \| Jul 2015
+
+## Teaching
+
+**Single cell technologies Seminar** \| UVic \| November 2023 – Present
+
+**Basic Genetics** \| Human Biology and Medicine Degrees (UPF) \| April 2021 – Present
+
+**Fundamentals of Computational Biology** \| Human Biology Degree (UPF) \| Sept 2021 – Dec 2022
+
+**Graphic Wizardry with Inkscape** \| Can Ruti PhD Committee Workshop \| Jan 2020
+
+**Analyzing ChIP-seq data** \| Bioinformatics Workshop: Introduction to NGS data analysis (EPICHEMBIO) \| March 2019
+
+**Improve your plots with {ggplot2}** \| R-Ladies Barcelona Workshop \| Sept 2017; Oct 2019
+
+## Volunteer Work
+
+**Bioconductor package reviewer** \| Oct 2024 – Present
+
+**R-Ladies Barcelona Organizer** \| 2017 – 2023
+
+**Can Ruti PhD Stuent Committee** \| 2018 – 2020
