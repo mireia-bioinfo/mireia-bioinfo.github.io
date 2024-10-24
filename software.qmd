@@ -2,7 +2,7 @@
 title: "Software"
 ---
 
-### UMI4Cats 
+### UMI4Cats
 
 ![](files/UMI4Cats_logo.png){style="text-align"}
 
