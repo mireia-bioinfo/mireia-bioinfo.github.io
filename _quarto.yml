@@ -8,6 +8,7 @@ execute:
 
 website:
   title: "Mireia Ramos-Rodríguez"
+  favicon: /files/icon.png
   navbar:
     background: primary
     left:
