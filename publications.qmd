@@ -26,6 +26,10 @@ title: "Publications"
 
 ## Collaborations
 
+-   Climent-Cantó, P., Subirana-Granés, M., [Ramos-Rodríguez, M.]{.underline}, Dámaso, E., Marín, F., Vara, C., Pérez-González, B., Raurell, H., Munté, E., Soto, J. L., Alonso, Á., Shin, G., Ji, H., Hitchins, M., Capellá, G., Pasquali, L., & Pineda, M. (2024). **Altered chromatin landscape and 3D interactions associated with primary constitutional MLH1 epimutations**. *Clinical Epigenetics*, 16(1). https://doi.org/10.1186/s13148-024-01770-3
+
+-   Cobo‐Vuilleumier, N., Rodríguez‐Fernandez, S., López‐Noriega, L., Lorenzo, P. I., Franco, J. M., Lachaud, C. C., Vazquez, E. M., Legido, R. A., Dorronsoro, A., López‐Férnandez‐Sobrino, R., Fernández‐Santos, B., Serrano, C. E., Salas‐Lloret, D., van Overbeek, N., [Ramos‐Rodriguez, M.]{.underline}, Mateo‐Rodríguez, C., Hidalgo, L., Marin‐Canas, S., Nano, R., … Gauthier, B. R. (2024). **LRH‐1/NR5A2 targets mitochondrial dynamics to reprogram type 1 diabetes macrophages and dendritic cells into an immune tolerance phenotype**. *Clinical and Translational Medicine*, 14(12). <https://doi.org/10.1002/ctm2.70134>
+
 -   Sarkar, S., Deiter, C., Kyle, J. E., Guney, M. A., Sarbaugh, D., Yin, R., Li, X., Cui, Y., [Ramos‑Rodriguez, Mireia]{.underline}, Nicora, C. D., Syed, F., Juan‑Mateu, J., Muralidharan, C., Pasquali, L., Evans‑Molina, C., Eizirik, D. L., Webb‑ Robertson, B.‑J. M., Burnum‑Johnson, K., Orr, G., … Nakayasu, E. S. (2024). **Regulation of β‑cell death by ADP‑ribosylhydrolase ARH3 via lipid signaling in insulitis**. *Cell Communication and Signaling*, 22(1), 141. <https://doi.org/10.1186/s12964-023-01437-1>
 
 -   Fontcuberta‑PiSunyer, M., Garcı́ a‑Alamán, A., Prades, Èlia, Téllez, N., Alves‑Figueiredo, H., [Ramos‑Rodríguez, Mireia]{.underline}, Enrich, C., Fernandez‑Ruiz, R., Cervantes, S., Clua, L., Ramón‑Azcón, J., Broca, C., Wojtusciszyn, A., Montserrat, N., Pasquali, L., Novials, A., Servitja, J.‑M., Vidal, J., Gomis, R., & Gasa, R. (2023). **Direct reprogramming of human fibroblasts into insulin‑producing cells using transcription factors**. *Communications Biology*, 6(1). <https://doi.org/10.1038/s42003-023-04627-2>
